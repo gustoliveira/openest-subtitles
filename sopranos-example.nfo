@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>Tony begins to establish himself as the acting Don of the Jersey crew, but his world is turned upside down by the return of Big Pussy and his sister Janice.
+Melfi consults her own therapist, feeling guilty over her refusal to treat Tony.
+Christopher expands into the world of white-collar crime, but his associates cause trouble when they bring violence into the workplace.</plot>
+  <lockdata>false</lockdata>
+  <dateadded>2025-02-11 13:20:59</dateadded>
+  <title>Guy Walks into a Psychiatrist’s Office</title>
+  <originaltitle>Guy Walks into a Psychiatrist’s Office</originaltitle>
+  <director>Allen Coulter</director>
+  <writer>Jason Cahill</writer>
+  <credits>Jason Cahill</credits>
+  <rating>7.7</rating>
+  <year>2000</year>
+  <mpaa>TV-MA</mpaa>
+  <imdbid>tt0705250</imdbid>
+  <tvdbid>167552</tvdbid>
+  <runtime>49</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>207828</tvrageid>
+  <art>
+    <poster>/shows/The Sopranos/Season 2/The.Sopranos.S02E01.1080p.BluRay.x265-RARBG-thumb.jpg</poster>
+  </art>
+  <actor>
+    <name>Karen Giordano</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Dan Grimaldi</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Terence Winter</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Bryan Greenberg</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Philipp Kaner</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Chris Tardio</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Tom Aldredge</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>John Billeci</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Dan Chen</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Nicole Burdette</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Darrell Carey</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Robert Cicchini</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Mark Fish</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Katrina Lantz</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Wayne W. Pretlow</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Roberto Thomas</name>
+    <type>GuestStar</type>
+  </actor>
+  <showtitle>The Sopranos</showtitle>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2000-01-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2001056</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2967</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>224000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>
